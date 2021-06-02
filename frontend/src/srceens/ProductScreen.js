@@ -1,12 +1,4 @@
-const Error404Screen = {
-  
- 
-  
-  render: () => {
-    
-    
-    return `<div><body background="pulsera (25).jpeg"><a href="/images/pulsera (1).JPEG">Product Descriptcion</a></div>`;
-
-  },
+const ProductScreen = {
+  render: () => '<div>ProductScreen</div>',
 };
-export default Error404Screen;
+export default ProductScreen;

@@ -2,9 +2,9 @@ module.exports = {
   products: [
     {
       _id: '1',
-      name: 'bull',
+      name: 'Knight Bracelet',
       category: 'animal',
-      image: '/images/pulsera (1).JPEG',
+      image: '/images/pulsera (31).JPEG',
       price: 59,
       brand: 'Seven Pearls',
       rating: 4.5,
@@ -121,7 +121,7 @@ module.exports = {
       _id: '12',
       name: 'Jaguar Green Bracelet',
       category: 'Pants',
-      image: '/images/pulsera (28).JPEG',
+      image: '/images/pulsera (29).JPEG',
       price: 85,
       brand: 'Seven Pearls',
       rating: 4.5,

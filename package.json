@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/node-javascript-ecommerce.git"
+    "url": "git+https://github.com/krlosroller1020/Proyecto-prueba.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/node-javascript-ecommerce/issues"
+    "url": "https://github.com/krlosroller1020/Proyecto-prueba/issues"
   },
-  "homepage": "https://github.com/basir/node-javascript-ecommerce#readme",
+  "homepage": "https://github.com/krlosroller1020#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1"

@@ -9,6 +9,7 @@ module.exports = {
       brand: 'Seven Pearls',
       rating: 4.5,
       numReviews: 10,
+      description:'pulsera bonita',
       countInStock: 6,
     },
     {
@@ -20,6 +21,7 @@ module.exports = {
       brand: 'Seven Pearls',
       rating: 5,
       numReviews: 51,
+      description:'pulsera bonita',
     },
     {
       _id: '3',
@@ -30,6 +32,8 @@ module.exports = {
       brand: 'Seven Pearls',
       rating: 4,
       numReviews: 45,
+      description:'pulsera bonita',
+      countInStock: 6,
     },
     {
       _id: '4',
@@ -40,6 +44,7 @@ module.exports = {
       brand: 'Seven Pearls',
       rating: 2.5,
       numReviews: 198,
+      description:'pulsera bonita',
       countInStock: 6,
     },
     {
@@ -51,6 +56,7 @@ module.exports = {
       brand: 'Seven Pearls',
       rating: 3.5,
       numReviews: 89,
+      description:'pulsera bonita',
       countInStock: 6,
     },
     {
@@ -62,6 +68,7 @@ module.exports = {
       brand: 'Seven Pearls',
       rating: 3.5,
       numReviews: 89,
+      description:'pulsera bonita',
       countInStock: 6,
     },
     {
@@ -72,6 +79,7 @@ module.exports = {
       price: 70,
       brand: 'Seven Pearls',
       rating: 5,
+      description:'pulsera bonita',
       numReviews: 51,
     },
     {
